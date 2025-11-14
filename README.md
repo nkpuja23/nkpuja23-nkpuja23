@@ -68,10 +68,3 @@ My key projects focus on practical problem-solving and full-stack development.
 ---
 
 <br>
-
-***Remember to replace all text enclosed in `[SQUARE BRACKETS AND ALL CAPS]` with your actual links and information before committing the file!***
-
-Here's an easy-to-follow video tutorial on setting up your GitHub profile README for more visual guidance. [How to create Professional Github Readme Profile (Step By Step)](https://www.youtube.com/watch?v=rCt9DatF63I).
-
-
-http://googleusercontent.com/youtube_content/5
