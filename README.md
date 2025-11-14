@@ -1,6 +1,5 @@
-# nkpuja23-nkpuja23
 <div align="center">
-  <a href="https://nkpuja23.github.io">
+  <a href="[LINK TO YOUR LIVE EPITOME WEBSITE]">
     <img src="[LINK TO YOUR PROFILE PICTURE/AVATAR]" alt="Nagapujitha Karthikeyan Avatar" width="150"/>
   </a>
   <h1 align="center">The NK Portfolio</h1>
@@ -47,13 +46,13 @@ My key projects focus on practical problem-solving and full-stack development.
 
 ### 1. **Online Doctor Appointment System**
 - **Technology:** **PHP** / **XAMPP** / **MySQL**.
-- **Achievement:** Designed and implemented a secure relational database schema and **CRUD operations** for dynamic appointment management.
-- **Goal:** Demonstrated proficiency in translating real-world requirements into a functional, data-driven web application.
-- **Repository:** [[LINK TO DOCTOR APPOINTMENT SYSTEM REPO]]
+- **Achievement:** Designed and implemented a secure **relational database schema** and **CRUD operations** using PHP for dynamic appointment management. This project served as a comprehensive exercise in **full-stack development** and is documented in detail on my live portfolio site.
+- **Goal:** Demonstrated robust proficiency in translating real-world requirements into a functional, data-driven web application.
+- **Repository:** [[LINK TO DOCTOR APPOINTMENT SYSTEM REPO (Source Code)]]
 
 ### 2. **The NK Portfolio (Live Site)**
-- **Technology:** **HTML5** / **CSS3** / **GitHub Pages**.
-- **Achievement:** Used the Epitome template to create a clean, professional, and responsive personal site to host all documentation and project case studies.
+- **Technology:** **HTML5** / **CSS3** / **GitHub Pages** (Epitome Template).
+- **Achievement:** Created a professional, responsive portfolio to host all project documentation, achievements, and academic credentials.
 - **Live Link:** [[LINK TO YOUR LIVE EPITOME WEBSITE]]
 
 ---
@@ -66,5 +65,3 @@ My key projects focus on practical problem-solving and full-stack development.
 * **High School Honors:** Scholarship awardee and International Rank 15 in the IEO.
 
 ---
-
-<br>
