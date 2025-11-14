@@ -48,7 +48,7 @@ My key projects focus on practical problem-solving and full-stack development.
 - **Technology:** **PHP** / **XAMPP** / **MySQL**.
 - **Achievement:** Designed and implemented a secure **relational database schema** and **CRUD operations** using PHP for dynamic appointment management. This project served as a comprehensive exercise in **full-stack development** and is documented in detail on my live portfolio site.
 - **Goal:** Demonstrated robust proficiency in translating real-world requirements into a functional, data-driven web application.
-- **Repository:** [[LINK TO DOCTOR APPOINTMENT SYSTEM REPO (Source Code)]]
+- **Repository:** [https://github.com/nkpuja23/Online-Doctor-Appointment-System]
 
 ### 2. **The NK Portfolio (Live Site)**
 - **Technology:** **HTML5** / **CSS3** / **GitHub Pages** (Epitome Template).
