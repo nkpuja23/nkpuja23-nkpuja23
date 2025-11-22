@@ -1,6 +1,6 @@
 <div align="center">
   <a href="[LINK TO YOUR LIVE EPITOME WEBSITE]">
-    <img src="[LINK TO YOUR PROFILE PICTURE/AVATAR]" alt="Nagapujitha Karthikeyan Avatar" width="150"/>
+    <img src="https://github.com/nkpuja23/nkpuja23.github.io/blob/main/images/Site_pic.png" alt="Nagapujitha Karthikeyan Avatar" width="150"/>
   </a>
   <h1 align="center">The NK Portfolio</h1>
 </div>
