@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="[LINK TO YOUR LIVE EPITOME WEBSITE]">
+  <a href="https://nkpuja23.github.io/">
     <img src="https://github.com/nkpuja23/nkpuja23.github.io/blob/main/images/Site_pic.png" alt="Nagapujitha Karthikeyan Avatar" width="150"/>
   </a>
   <h1 align="center">The NK Portfolio</h1>
@@ -15,8 +15,8 @@ I'm **Nagapujitha Karthikeyan**, a high-achieving Computer Science major from IC
 
 <div align="center">
   
-  [![Website](https://img.shields.io/badge/Live%20Portfolio-View%20Site-%23000000?style=for-the-badge&logo=vercel&logoColor=white)]([LINK TO YOUR LIVE EPITOME WEBSITE])
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK TO YOUR LINKEDIN PROFILE])
+  [![Website](https://img.shields.io/badge/Live%20Portfolio-View%20Site-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nkpuja23.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nagapujitha-karthikeyan-225226318)
 
 </div>
 
