@@ -53,7 +53,7 @@ My key projects focus on practical problem-solving and full-stack development.
 ### 2. **The NK Portfolio (Live Site)**
 - **Technology:** **HTML5** / **CSS3** / **GitHub Pages** (Epitome Template).
 - **Achievement:** Created a professional, responsive portfolio to host all project documentation, achievements, and academic credentials.
-- **Live Link:** [[LINK TO YOUR LIVE EPITOME WEBSITE]]
+- **Live Link:** [https://nkpuja23.github.io/]
 
 ---
 
