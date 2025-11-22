@@ -16,7 +16,7 @@ I'm **Nagapujitha Karthikeyan**, a high-achieving Computer Science major from IC
 <div align="center">
   
   [![Website](https://img.shields.io/badge/Live%20Portfolio-View%20Site-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nkpuja23.github.io/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nagapujitha-karthikeyan-225226318)
+  Connect with me on LinkedIn: [Nagapujitha Karthikeyan](https://www.linkedin.com/in/www.linkedin.com/in/nagapujitha-karthikeyan-225226318)
 
 </div>
 
